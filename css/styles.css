@@ -1,0 +1,12 @@
+ .intro {
+      background-color: red;
+}
+
+
+.intro2 p {
+    background-color: steelblue;
+}
+
+.dest p a {
+  font-weight: bolder;
+}
